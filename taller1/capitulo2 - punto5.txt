@@ -1,0 +1,3 @@
+5.	¿Por qué se dice que un protocolo es independiente de la tecnología?
+
+Porque el protocolo describe que cosas se requieren para que este sea cumplido, pero no dice como debe realizarse este proceso, esto hace que un mismo protocolo sea usado para muchos dispositivos, pero la manera en la que estos realicen el proceso descrito en el protocolo sea distinta gracias a la tecnología que use cada uno de estos.

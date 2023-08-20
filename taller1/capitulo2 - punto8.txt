@@ -1,0 +1,3 @@
+8.	Describir la diferencia entre los modelos de protocolo y modelos de referencia.
+
+Los modelos de protocolo son aquel que proporciona un modelo el cual coincide fielmente con la estructura que esta asignada en el protocolo, y el modelo de referencia proporciona una referencia común para mantener la consistencia en los protocolos y servicios de red, pero este no es una especificación de implementación, este tiene como objetivo dar una idea mas clara de las funciones y procesos involucrados en este.

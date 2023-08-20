@@ -1,0 +1,8 @@
+2.	Comparar y contrastar los siguientes términos: RED, LAN, WAN INTERNETWORK e INTERNET
+
+Alcance: La red LAN se limita a un área pequeña mientras que la WAN abarca grandes cantidades a menudo a nivel regional o global, Internetwork se refiere a la interconexión de múltiples redes e internet es la red global más grande de interconexiones
+
+Tamaño de la red: LAN es pequeña y se usa en redes internas y la WAN abarca redes más grandes y pueden ser públicas y privadas, e internet es la red global más grande y publica.
+
+Tecnologías:  tanto como LAN y WAN utilizan diferentes tecnologías como ethernet, fibra óptica o redes inalámbricas e Internet es una combinación de varias tecnologías y protocolos.
+Propósito: Las LAN se utilizan para la comunicación local y el intercambio de recursos dentro de una ubicación específica. Las WAN permiten la comunicación entre ubicaciones remotas. INTERNET es una plataforma global para la comunicación, el acceso a la información y los servicios en línea.
