@@ -1,0 +1,9 @@
+3.	Investigar que son las redes orientas y no orientadas a conexión.
+
+Las redes orientadas a conexión establecen un canal de comunicación entre los dispositivos 
+donde además se mantiene la conexión y se finaliza. Estas redes son más confiables y 
+tiene presentes por ejemplo el protocolo TCP lo cual garantiza que los datos lleguen en orden 
+y sin pérdida de información, mientras que las no orientadas a conexión hacen todo lo contrario,
+no establecen un canal de comunicación y los paquetes de datos se envían de forma independiente, 
+no se garantiza la transmisión correcta de los datos, pero si velocidad.
+

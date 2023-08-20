@@ -1,0 +1,26 @@
+2.	Describir las características de las arquitecturas de red: tolerante a fallas, escalabilidad, 
+calidad de servicio y seguridad. Mostrar sus respectivos ejemplos
+
+Tolerante a fallos: Es la capacidad de una red de continuar funcionando incluso cuando se presentar
+ daños en componentes, donde los daños no deben afectar de forma drástica la red.
+
+Ejemplo: Las redes con redundancia, donde si falla un canal de comunicación se puede usar otro que se
+ encuentra siempre activo en la red.
+
+Escalabilidad: Capacidad de una red para poder crecer y adaptarse a cambios sin perder rendimiento ni 
+eficiencia.
+
+Ejemplo: Amazon web Services: permite agregar nuevos servidores y capacidad de almacenamiento a las
+ empresas que necesitan más recursos de red.
+
+Calidad de Servicio: Refiere a la capacidad de una red para priorizar y garantizar un rendimiento 
+consistente para diferentes tráficos.
+
+Ejemplo: Redes de voIP donde para garantizar la calidad de las llamadas telefónicas se asignan 
+prioridades al tráfico de voz, evitando la perdida de paquetes.
+
+Seguridad: Se refiere a la protección de datos y la infraestructura contra accesos no autorizados, 
+ataques maliciosos y filtración de información sensible.
+
+Ejemplo: VPN el cual establece un túnel cifrado entre dispositivos remotos y la red central, 
+lo cual protege la comunicación y los datos trasmitidos a través de redes inseguras

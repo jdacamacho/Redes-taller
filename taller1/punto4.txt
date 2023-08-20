@@ -1,0 +1,8 @@
+4.	Describa que es calidad de servicio y responda: ¿Por qué importa la calidad de servicio en 
+una red de datos?
+
+La calidad de servicio es la capacidad de una red de proporcionar un buen rendimiento y satisfactorio 
+para los distintos tipos de tráfico que existen en tiempo real. Donde se asignas prioridades a diferentes 
+flujos de datos y garantizar un ancho de banda adecuado.
+Es importante porque garantiza el rendimiento, optimiza recursos, prioriza aplicaciones críticas y apoyo
+ a la diversidad de servicios
