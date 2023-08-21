@@ -1,3 +1,0 @@
-4.	¿Describir la diferencia entre Tarjeta de interfaz de red (NIC), puerto físico e interfaz de red??
-
-La tarjeta de interfaz de red es el componente físico que permite la conexión física a una red o un host, el puerto físico es un conector por el cual se realiza la conexión a la red o un host y la interfaz es donde se permite la comunicación entre dispositivos y redes diferentes, realizandose por medio de routers para que estas redes se conecten.
