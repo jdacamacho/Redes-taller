@@ -1,0 +1,5 @@
+7.	Explicar la función de los protocolos en las comunicaciones de redes y para qué es el proceso de encapsulamiento de los datos (ilustrar el nombre que adopta cada PDU en cada capa del modelo TCP/IP mediante un dibujo).
+
+Los protocolos se usan para establecer reglas y normas que permiten que los dispositivos y sistemas se comuniquen y puedan colaborar de manera efectiva para permitir la comunicación entre las redes para poder realizar tareas como el intercambio de datos entre los diferentes dispositivos o sistemas en una red.
+
+El encapsulamiento es una técnica utilizada en las comunicaciones de redes para poder transmitir información de manera eficiente y segura a través de diferentes capas y protocolos, cada capa agrega información necesaria para el transporte y la entrega de los datos a través de la red.
