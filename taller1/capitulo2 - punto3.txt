@@ -1,3 +1,0 @@
-3.	¿Cuál es la diferencia entre INTERNETWORK E INTERNET?
-
-Internetwork se refiere a la interconexión de múltiples redes individuales utilizando dispositivos como enrutadores y su función principal es permitir que redes independientes se comuniquen entre sí de manera eficiente y confiable mientras que internet es una red global interconectada de miles de millones de dispositivos, es publica y ofrece una amplia variedad de servicios.
