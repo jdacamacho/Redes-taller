@@ -1,3 +1,0 @@
-6.	Consultar y explicar brevemente qué es una Unidad de Datos del Protocolo (PDU).
-
-Una PDU es la unidad básica que es usada en el modelo de interconexión de sistemas abiertos, esta tiene información única que permite identificar a la capa junto con los datos de usuario, son utilizadas para el intercambio de datos entre unidades disparejas, dentro de una capa del modelo.
